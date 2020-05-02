@@ -1,0 +1,6 @@
+flask:
+  debug: bool
+  private_key: str
+mongo:
+  database: str
+  conenction_string: str
